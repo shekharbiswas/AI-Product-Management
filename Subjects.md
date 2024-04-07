@@ -6,4 +6,5 @@
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/7715102e-dc24-4bf9-8ae8-7332d786ee89" width="800">
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/a34ea96a-e74e-4e32-b93a-fedacb3f7265" width="800">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/d13d76d4-d39d-490c-a5e0-27739e208499" width="800">
 
