@@ -10,4 +10,5 @@
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/bbfade77-9baf-40a1-a0ac-f86b0486e7ba" width="800">
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/4513e156-a456-4a15-9444-0edd61dd15a0" width="600">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/75fde4ad-f4e4-4fad-83d8-d80975a24aa1" width="600">
 
