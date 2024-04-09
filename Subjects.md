@@ -12,3 +12,6 @@
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/4513e156-a456-4a15-9444-0edd61dd15a0" width="700">
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/75fde4ad-f4e4-4fad-83d8-d80975a24aa1" width="700">
 
+- For class imbalance problem PR curve is better than ROC
+- <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ba4ed905-b1c3-435e-8d1d-3c7e04293563" width="700">
+
