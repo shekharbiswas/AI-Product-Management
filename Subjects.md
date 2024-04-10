@@ -18,3 +18,6 @@
 - If you are not satisfied look out for
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/15cbebe0-271d-48f1-ace5-393c875c80b2" width="700">
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/d3f9bf5a-51b4-4643-9933-6e24e5bd7bc5" width="700">
+
