@@ -33,5 +33,9 @@ Heuristics are methods of solving problems using a simplified set of rules which
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/66d1a522-b357-46ae-98f2-b0ec3e7c4c74" width="400">
 
+### data silos can be a danger
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/386c2a7f-71a4-4108-8959-9f00fca30c8a" width="400">
+
 
 
