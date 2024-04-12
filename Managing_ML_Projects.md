@@ -68,3 +68,10 @@ It involves the tracking of data from the source all the way to consumption,
 ### Edge vs Cloud 
 
 ![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/a99cebf3-21d4-4ffa-bf61-20281b9ab6ee)
+
+
+### Examples
+
+Recommedation in Netflix - in this particular case we might choose to run our model periodically. For example run a model and retrain our model every night, generate our predictions, cash, our predictions. So that when a user goes and turns the TV on to get a movie recommendation, our predictions are immediately then available to the user to get. 
+
+An example of an edge machine learning system might be an intelligent security system. So for example, we might have intelligence security cameras that are constantly scanning their environment and they're looking for certain certain signals or triggers. In this case we need the ability to immediately recognize certain objects or actions with very low latency. And likewise we also can't always count on internet connectivity.
