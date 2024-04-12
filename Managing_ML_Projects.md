@@ -100,3 +100,7 @@ camera which is trained to identify certain events or actions.
 ### decay 
 
 ![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/97f3d1b8-337c-4725-8cb4-7c13e4e967f4)
+
+### how medical AI failed
+
+https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/
