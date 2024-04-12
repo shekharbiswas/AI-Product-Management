@@ -75,3 +75,26 @@ It involves the tracking of data from the source all the way to consumption,
 Recommedation in Netflix - in this particular case we might choose to run our model periodically. For example run a model and retrain our model every night, generate our predictions, cash, our predictions. So that when a user goes and turns the TV on to get a movie recommendation, our predictions are immediately then available to the user to get. 
 
 An example of an edge machine learning system might be an intelligent security system. So for example, we might have intelligence security cameras that are constantly scanning their environment and they're looking for certain certain signals or triggers. In this case we need the ability to immediately recognize certain objects or actions with very low latency. And likewise we also can't always count on internet connectivity.
+
+There are three primary approaches that we can take to doing this the first that we may choose to use edge AI to generate certain triggers based on actions that recognizes. And these triggers will then initiate a cloud machine learning system. So an example here might be again a security camera which is trained to identify certain events or actions. And when that generates a trigger, it then starts streaming data from the camera back to the cloud for further processing and modeling and initiates a cloud machine learning system.
+
+Second approach might be to run the machine learning model in the cloud, but then also to store common pre computed predictions by our cloud system on the device for quick look up so that we can minimize latency for our user.
+Play video starting at :7:54 and follow transcript7:54
+And a third approach might be to take advantage of local data centers across the areas where we're serving users. So that when a user sends a query or sends data up to a cloud system for modeling the travel distance is minimized by sending it to a local data center so that we can minimize any latency in our application.
+
+One example of a hybrid machine learning system might be a smart speaker with a built in voice a system. A speaker might include an edge machine learning system that's trained to recognize what's called a wake word. So for example, if we have an amazon Alexa, it might be trained to recognize the word Alexa. And when it's model runs and here's the word Alexa, it then issues a trigger which connects up to the cloud system that we have sends our future data. Or in the case the future voice commands that we then issue after we say the wake word Alexa, those get sent up to the cloud for processing and modeling and then we receive our results back from our cloud system.
+Play video starting at :9:7 and follow transcript9:07
+So how should you decide between a cloud machine learning system versus an edge machine learning model, they're a couple of key questions to ask to reach your decision. First question is how much does latency matter in your application?
+Play video starting at :9:22 and follow transcript9:22
+If latency is a big concern and your users need immediate results back from the model, you might want to consider an edge model. If latency is less of a concern, you might be okay going with the cloud system.
+
+Second question to ask is is reliability on internet connectivity acceptable in your use case. If your model needs to be able to work even in situations where you don't have connectivity, you might go with an edge system. But if you can assume internet connectivity during the models use you might be okay with a cloud system.
+
+Thirdly, are your users comfortable sending their data up to the cloud?
+
+If privacy is a big concern such as the use case we looked at using facial recognition to open up your phone, you might prefer to use an edge system where users don't need to send their data up to the cloud.
+
+Or if privacy is less of a concern in your particular use case, you might choose a cloud machine learning system.
+camera which is trained to identify certain events or actions.: Added to Selection. Press [CTRL + S] to save as a note
+en
+​
