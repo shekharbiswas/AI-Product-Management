@@ -24,6 +24,9 @@ Heuristics are methods of solving problems using a simplified set of rules which
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/c5bead38-6c98-482f-b11c-745dc756e857" width="400">
 
+### comparison 
+
+
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/98389979-5f32-4e38-8f3a-c68a421792f7" width="400">
 
 ### Best practices of data collection
