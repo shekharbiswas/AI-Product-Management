@@ -116,3 +116,6 @@ https://www.datacamp.com/tutorial/explainable-ai-understanding-and-trusting-mach
 
 
 ![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/131c72ea-569a-46d9-ac5d-4dc145192c73)
+
+
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/2488ccec-eda8-436e-a748-603c8186cc8d)
