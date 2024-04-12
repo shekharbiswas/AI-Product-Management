@@ -10,3 +10,9 @@
 We start with the user's objective whether they trying to achieve with this task and then we work backwards from that objective back to the beginning
 
 ![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/356f6a52-76ef-48e9-8eba-b27298856214)
+
+
+**Human centric ml**
+
+https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
+
