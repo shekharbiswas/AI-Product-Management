@@ -104,3 +104,9 @@ camera which is trained to identify certain events or actions.
 ### how medical AI failed
 
 https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/
+
+
+### Drift in ML
+
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/d12d9b3c-b1e9-4dae-9fe1-7f9c49ed2172)
+
