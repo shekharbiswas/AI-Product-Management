@@ -83,9 +83,9 @@ Play video starting at :7:54 and follow transcript7:54
 And a third approach might be to take advantage of local data centers across the areas where we're serving users. So that when a user sends a query or sends data up to a cloud system for modeling the travel distance is minimized by sending it to a local data center so that we can minimize any latency in our application.
 
 One example of a hybrid machine learning system might be a smart speaker with a built in voice a system. A speaker might include an edge machine learning system that's trained to recognize what's called a wake word. So for example, if we have an amazon Alexa, it might be trained to recognize the word Alexa. And when it's model runs and here's the word Alexa, it then issues a trigger which connects up to the cloud system that we have sends our future data. Or in the case the future voice commands that we then issue after we say the wake word Alexa, those get sent up to the cloud for processing and modeling and then we receive our results back from our cloud system.
-Play video starting at :9:7 and follow transcript9:07
+
 So how should you decide between a cloud machine learning system versus an edge machine learning model, they're a couple of key questions to ask to reach your decision. First question is how much does latency matter in your application?
-Play video starting at :9:22 and follow transcript9:22
+
 If latency is a big concern and your users need immediate results back from the model, you might want to consider an edge model. If latency is less of a concern, you might be okay going with the cloud system.
 
 Second question to ask is is reliability on internet connectivity acceptable in your use case. If your model needs to be able to work even in situations where you don't have connectivity, you might go with an edge system. But if you can assume internet connectivity during the models use you might be okay with a cloud system.
