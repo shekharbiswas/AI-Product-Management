@@ -95,6 +95,8 @@ Thirdly, are your users comfortable sending their data up to the cloud?
 If privacy is a big concern such as the use case we looked at using facial recognition to open up your phone, you might prefer to use an edge system where users don't need to send their data up to the cloud.
 
 Or if privacy is less of a concern in your particular use case, you might choose a cloud machine learning system.
-camera which is trained to identify certain events or actions.: Added to Selection. Press [CTRL + S] to save as a note
-en
-​
+camera which is trained to identify certain events or actions.
+
+### decay 
+
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/97f3d1b8-337c-4725-8cb4-7c13e4e967f4)
