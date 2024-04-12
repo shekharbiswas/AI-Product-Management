@@ -113,3 +113,6 @@ https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-l
 
 https://www.datacamp.com/tutorial/explainable-ai-understanding-and-trusting-machine-learning-models
 ( SHAP and LIME )
+
+
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/131c72ea-569a-46d9-ac5d-4dc145192c73)
