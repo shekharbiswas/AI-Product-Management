@@ -16,15 +16,17 @@ Heuristics are methods of solving problems using a simplified set of rules which
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/f9ec9da8-84b8-4b61-85ad-b99809c63508" width="700">
 
-- output metrics
+### Outcome metrics
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/13542cec-31e8-42b9-8120-411be2ec6637" width="400">
+
+### Output metrics 
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/c5bead38-6c98-482f-b11c-745dc756e857" width="400">
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/98389979-5f32-4e38-8f3a-c68a421792f7" width="400">
 
-- best practices of data collection
+### Best practices of data collection
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/66d1a522-b357-46ae-98f2-b0ec3e7c4c74" width="400">
 
