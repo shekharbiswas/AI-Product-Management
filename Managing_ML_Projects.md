@@ -53,5 +53,13 @@ It involves the tracking of data from the source all the way to consumption,
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/a3f2ba55-b31f-427e-a659-db9b37e3a3eb" width="650">
 
+### ML system design decisions
+
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/846c838d-800f-4314-976c-6b0f47ddf7f9)
+
+### system design examples
+
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/979c4693-e9e8-49b1-ad55-05e72c20c27c)
+
 
 
