@@ -39,7 +39,7 @@ Heuristics are methods of solving problems using a simplified set of rules which
 
 ### how facebook did
 
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/64dfe944-4091-45b0-863d-4780ac01c29b" width="400">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/64dfe944-4091-45b0-863d-4780ac01c29b" width="450">
 
 
 
