@@ -8,4 +8,6 @@ Heuristics are methods of solving problems using a simplified set of rules which
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/116d6637-bf91-4247-8911-a758a490ffa3" width="450">
 
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/1fdf5d2e-9e0c-483b-aca6-b8be7bce06c3" width="450">
+
 
