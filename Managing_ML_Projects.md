@@ -41,6 +41,10 @@ Heuristics are methods of solving problems using a simplified set of rules which
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/64dfe944-4091-45b0-863d-4780ac01c29b" width="450">
 
+### spotify
+
+https://engineering.atspotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/
+
 
 
 
