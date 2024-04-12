@@ -119,3 +119,10 @@ https://www.datacamp.com/tutorial/explainable-ai-understanding-and-trusting-mach
 
 
 ![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/2488ccec-eda8-436e-a748-603c8186cc8d)
+
+
+## Model Lifecycle Management at Netflix
+
+https://www.youtube.com/watch?v=kvl4lCIMqio&ab_channel=USENIX
+
+
