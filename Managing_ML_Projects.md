@@ -61,5 +61,10 @@ It involves the tracking of data from the source all the way to consumption,
 
 ![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/979c4693-e9e8-49b1-ad55-05e72c20c27c)
 
+### Edge AI 
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/4ff74db6-bacd-4be6-8e21-a98d453a2463)
 
 
+### Edge vs Cloud 
+
+![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/a99cebf3-21d4-4ffa-bf61-20281b9ab6ee)
