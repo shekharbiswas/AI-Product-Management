@@ -14,10 +14,13 @@ Heuristics are methods of solving problems using a simplified set of rules which
 **Why ML Projects hard to manage**
 - https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641
 
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/f9ec9da8-84b8-4b61-85ad-b99809c63508" width="600">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/f9ec9da8-84b8-4b61-85ad-b99809c63508" width="700">
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/13542cec-31e8-42b9-8120-411be2ec6637" width="400">
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/c5bead38-6c98-482f-b11c-745dc756e857" width="400">
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/98389979-5f32-4e38-8f3a-c68a421792f7" width="400">
+
 
 
 
