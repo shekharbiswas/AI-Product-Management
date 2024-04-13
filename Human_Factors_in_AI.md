@@ -52,5 +52,5 @@ ML learns from user behaviour and feed the data to ML.
 - Store predicted by image recog. if individual shoppers are pregnant or not.
 - Then sell baby products adv to them.
   
-After being fined for failing to keep user privacy, Googke started awareness comics
+After being fined for failing to keep user privacy, Goog. started awareness comics
 https://federated.withgoogle.com/
