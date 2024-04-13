@@ -43,3 +43,10 @@ ML learns from user behaviour and feed the data to ML.
 
 - Someone bought toilet seat and now gets recommended only abt toilet seats.
   That is Unwanted bias.
+
+
+### Privacy 
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/b7cf0c64-ee4b-4353-946d-c50377a0bc4c" width="450">
+
+
