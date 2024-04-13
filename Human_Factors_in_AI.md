@@ -27,7 +27,7 @@ https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
 
 Instead of saying its L3 storm, 
 
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/c830834f-703b-4663-b21f-c99b7ee45889" width="350">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/c830834f-703b-4663-b21f-c99b7ee45889" width="450">
 
 
 
