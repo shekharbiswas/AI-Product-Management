@@ -54,3 +54,13 @@ ML learns from user behaviour and feed the data to ML.
   
 After being fined for failing to keep user privacy, Goog. started awareness comics
 https://federated.withgoogle.com/
+
+
+## Bias
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/44d196b3-f6ee-4eb6-9e34-d84740f96c7e" width="550">
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/f1e0e1ae-2651-4089-9aa0-a63c7fb5e3ce" width="450">
+
+
+
