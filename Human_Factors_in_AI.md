@@ -29,6 +29,8 @@ Instead of saying its L3 storm,
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/c830834f-703b-4663-b21f-c99b7ee45889" width="450">
 
+- Instead of saying bus will arrive in 12 mins, show the confidence interval ? 
+
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ef4ce925-a059-46a6-b096-859a2c121d75" width="650">
 
 
