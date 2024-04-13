@@ -18,4 +18,4 @@ We start with the user's objective whether they trying to achieve with this task
 https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
 
 ## AI User exp
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ef6a6a42-d733-431e-ba05-ea7362947324" width="400">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ef6a6a42-d733-431e-ba05-ea7362947324" width="450">
