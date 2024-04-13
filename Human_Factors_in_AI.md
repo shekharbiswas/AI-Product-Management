@@ -23,4 +23,11 @@ https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
 ### user inputs
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/6fda7a9d-1132-4c71-9556-f857ea08b252" width="450">
 
+### ML is by nature Probabilistic
+
+Instead of saying its L3 storm, 
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/c830834f-703b-4663-b21f-c99b7ee45889" width="350">
+
+
 
