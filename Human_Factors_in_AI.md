@@ -1,8 +1,6 @@
 ### Human centered approach
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/8d0c657e-6e0b-4b88-a394-d3f0b2123436" width="400">
 
-![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/8d0c657e-6e0b-4b88-a394-d3f0b2123436)
-
-![image](https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/bdc5348d-b264-490f-9088-4196b2a0f26f)
 
 
 ### Task analysis
