@@ -68,5 +68,14 @@ https://federated.withgoogle.com/
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/78af2fe8-b178-472b-94e7-828e777b411f" width="350">
 
 
+### training & evaluating model..
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/d47e85dc-1876-4b83-ae78-4dd4cad27fe1" width="350">
+
+### deployment bias 
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/90f653eb-6057-4588-9f67-fc8aea14275a" width="300">
+
+
 
 
