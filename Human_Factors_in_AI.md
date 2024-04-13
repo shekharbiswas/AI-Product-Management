@@ -49,4 +49,6 @@ ML learns from user behaviour and feed the data to ML.
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/b7cf0c64-ee4b-4353-946d-c50377a0bc4c" width="450">
 
-
+- Store predicted by image recog. if individual shoppers are pregnant or not.
+- Then sell baby products adv to them.
+  
