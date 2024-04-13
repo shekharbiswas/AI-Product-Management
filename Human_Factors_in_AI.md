@@ -38,7 +38,8 @@ Instead of saying its L3 storm,
 
 https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html?mtrref=undefined&gwh=4E0FE80AFD1853C3EC3C385126AEB0B6&gwt
 
-# Feedback loop danger
+### Feedback loop danger
+ML learns from user behaviour and feed the data to ML.
 
 - Someone bought toilet seat and now gets recommended only abt toilet seats.
   That is Unwanted bias.
