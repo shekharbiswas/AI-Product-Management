@@ -82,7 +82,7 @@ After being fined for failing to keep user privacy, [Goog. started awareness com
 
 ### Q : Stu rep bias
 
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/e1bca299-088a-46fa-afa6-7368bbe5afcc" width="800">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/e1bca299-088a-46fa-afa6-7368bbe5afcc" width="900">
 
 [Machine bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
