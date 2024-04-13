@@ -80,7 +80,7 @@ https://federated.withgoogle.com/
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/f96c5525-e343-4ae3-8807-f28238158bea" width="300">
 
-### Q
+### Q : Stu rep bias
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/e1bca299-088a-46fa-afa6-7368bbe5afcc" width="700">
 
