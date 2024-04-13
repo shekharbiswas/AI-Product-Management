@@ -52,8 +52,8 @@ ML learns from user behaviour and feed the data to ML.
 - Store predicted by image recog. if individual shoppers are pregnant or not.
 - Then sell baby products adv to them.
   
-After being fined for failing to keep user privacy, Goog. started awareness comics
-https://federated.withgoogle.com/
+After being fined for failing to keep user privacy, [Goog. started awareness comics](https://federated.withgoogle.com/)
+
 
 
 ## Bias
@@ -84,6 +84,5 @@ https://federated.withgoogle.com/
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/e1bca299-088a-46fa-afa6-7368bbe5afcc" width="700">
 
-
-
+[Machine bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
