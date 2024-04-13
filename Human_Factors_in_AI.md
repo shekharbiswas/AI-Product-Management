@@ -9,7 +9,8 @@
 ### Task analysis
 
 We start with the user's objective whether they trying to achieve with this task and then we work backwards from that objective back to the beginning
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/356f6a52-76ef-48e9-8eba-b27298856214" width="400">
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/356f6a52-76ef-48e9-8eba-b27298856214" width="300">
 
 
 **Human centered ml**
