@@ -60,7 +60,13 @@ https://federated.withgoogle.com/
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/44d196b3-f6ee-4eb6-9e34-d84740f96c7e" width="550">
 
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/f1e0e1ae-2651-4089-9aa0-a63c7fb5e3ce" width="450">
+### data collection
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/f1e0e1ae-2651-4089-9aa0-a63c7fb5e3ce" width="350">
+
+### defining features ..
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/78af2fe8-b178-472b-94e7-828e777b411f" width="350">
+
 
 
 
