@@ -19,3 +19,8 @@ https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
 
 ## AI User exp
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ef6a6a42-d733-431e-ba05-ea7362947324" width="450">
+
+### user inputs
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/6fda7a9d-1132-4c71-9556-f857ea08b252" width="450">
+
+
