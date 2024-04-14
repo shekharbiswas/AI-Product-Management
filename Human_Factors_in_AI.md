@@ -99,7 +99,12 @@ Amazon wanted to have [AI selection of resumes](https://www.reuters.com/article/
 
 ### human vs ai pred
 
-<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/86007d2c-53d7-4888-9971-429024ea2cb1" width="500">
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/86007d2c-53d7-4888-9971-429024ea2cb1" width="600">
+
+
+### automation
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/e4779c1e-595d-4b42-8d9d-e3aa65f2497b" width="500">
 
 
 
