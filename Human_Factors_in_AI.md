@@ -90,4 +90,4 @@ After being fined for failing to keep user privacy, [Goog. started awareness com
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/1dfa5fe6-9813-4261-8b4e-b29f631a64d1" width="600">
 
-
+Amazon wanted to have [AI selection of resumes](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/)
