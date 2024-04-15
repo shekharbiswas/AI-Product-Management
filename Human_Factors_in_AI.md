@@ -120,11 +120,16 @@ Automation seeks to reduce human involvement, whereas augmentation empowers huma
 ### 2nd
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ebcedbee-6cc4-4425-8a94-72d974ff30a9" width="400">
 
-## 3rd
+### 3rd
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/8b791c72-bf1c-4736-9c40-d60c8e5eabfd" width="400">
 
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/59680f3e-d974-46cb-8ec6-1bd5f366bbbe" width="800">
+
+## change management
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ce5575cf-f718-4ae0-9a5f-c65365a27cbe" width="400">
+
 
 
 
