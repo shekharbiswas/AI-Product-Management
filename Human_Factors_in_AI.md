@@ -106,5 +106,13 @@ Amazon wanted to have [AI selection of resumes](https://www.reuters.com/article/
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/e4779c1e-595d-4b42-8d9d-e3aa65f2497b" width="500">
 
+[Cognitive Collaboration
+](https://www2.deloitte.com/us/en/insights/deloitte-review/issue-20/augmented-intelligence-human-computer-collaboration.html
+)
+
+
+## Inspiring model trust
+
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/135fbe61-b2e0-4077-9348-119e5cea7e76" width="600">
 
 
