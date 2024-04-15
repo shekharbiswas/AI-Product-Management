@@ -104,6 +104,8 @@ Amazon wanted to have [AI selection of resumes](https://www.reuters.com/article/
 
 ### automation
 
+Automation seeks to reduce human involvement, whereas augmentation empowers humans by providing tools and insights.
+
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/e4779c1e-595d-4b42-8d9d-e3aa65f2497b" width="500">
 
 [Cognitive Collaboration
