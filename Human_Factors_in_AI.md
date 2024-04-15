@@ -114,7 +114,11 @@ Automation seeks to reduce human involvement, whereas augmentation empowers huma
 
 
 ## Inspiring model trust
-
+### 1st
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/135fbe61-b2e0-4077-9348-119e5cea7e76" width="600">
+
+### 2nd
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ebcedbee-6cc4-4425-8a94-72d974ff30a9" width="600">
+
 
 
