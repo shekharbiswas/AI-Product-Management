@@ -130,6 +130,9 @@ Automation seeks to reduce human involvement, whereas augmentation empowers huma
 
 <img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/ce5575cf-f718-4ae0-9a5f-c65365a27cbe" width="400">
 
+<img src="https://github.com/shekharbiswas/AI-Product-Management/assets/32758439/d02ab180-46ba-4423-bdd8-13c69f1aef2c" width="900">
+
+
 
 
 
